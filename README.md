@@ -1,6 +1,7 @@
-![](https://github-readme-stats.vercel.app/api?username=YukkuriC&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YukkuriC&layout=compact)
-
+[![](https://github-readme-stats.vercel.app/api?username=YukkuriC&show_icons=true)](#)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=YukkuriC&layout=compact)](#)
+---
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](#)
 <!--
 **YukkuriC/YukkuriC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
